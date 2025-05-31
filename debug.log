@@ -1,0 +1,617 @@
+2025-05-23 19:25:40 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:03:48 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:03:51 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:03:53 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:16:17 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:16:19 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 21:16:20 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-23 23:06:36 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 3
+            [name] => Dejllabi Yousra
+            [email] => you1@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => User
+        )
+
+    [user_id] => 3
+)
+
+2025-05-26 15:03:35 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-26 15:03:53 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-26 15:03:59 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-26 15:04:16 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-26 15:55:47 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-26 15:57:45 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 33
+            [name] => zahra
+            [email] => zouzou12@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_33_1748119265.png
+            [user_type] => User
+        )
+
+    [user_id] => 33
+)
+
+2025-05-28 21:42:35 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+    [success_message] => تم إرسال إعلانك بنجاح وهو في انتظار الموافقة من قبل الإدارة.
+)
+
+2025-05-29 19:56:37 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 20:35:15 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 20:50:28 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 21:37:19 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 22:25:22 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 22:25:36 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 1
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-29 22:25:42 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 21
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-30 12:45:36 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 22
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 12
+            [name] => Gherbi Sana
+            [email] => sanagha@gmail.com
+            [Numéro_de_téléphone] => 0666666666
+            [avatar] => uploads/avatars/avatar_12_1748551583.jpg
+            [user_type] => Admin
+        )
+
+    [user_id] => 12
+)
+
+2025-05-31 01:00:48 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 28
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 34
+            [name] => Gherbi Sana
+            [email] => sanaagha707@gmail.com
+            [Numéro_de_téléphone] => 0674933734
+            [avatar] => uploads/avatars/avatar_34_1748635557.jpg
+            [user_type] => Admin
+        )
+
+    [user_id] => 34
+)
+
+2025-05-31 19:36:38 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 28
+    [action] => add
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 34
+            [name] => Gherbi Sana
+            [email] => sanaagha707@gmail.com
+            [Numéro_de_téléphone] => 0674933734
+            [avatar] => uploads/avatars/avatar_34_1748635557.jpg
+            [user_type] => Admin
+        )
+
+    [user_id] => 34
+)
+
+2025-05-31 19:36:40 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 28
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 34
+            [name] => Gherbi Sana
+            [email] => sanaagha707@gmail.com
+            [Numéro_de_téléphone] => 0674933734
+            [avatar] => uploads/avatars/avatar_34_1748635557.jpg
+            [user_type] => Admin
+        )
+
+    [user_id] => 34
+)
+
+2025-05-31 20:27:28 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 27
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 34
+            [name] => Gherbi Sana
+            [email] => sanaagha707@gmail.com
+            [Numéro_de_téléphone] => 0674933734
+            [avatar] => uploads/avatars/avatar_34_1748635557.jpg
+            [user_type] => Admin
+        )
+
+    [user_id] => 34
+)
+
+2025-05-31 22:36:39 - تم الوصول للملف
+POST data: Array
+(
+    [property_id] => 9
+    [action] => remove
+)
+
+SESSION data: Array
+(
+    [user] => Array
+        (
+            [id] => 44
+            [name] => GherbiSana
+            [email] => sanagha707@gmail.com
+            [Numéro_de_téléphone] => 
+            [avatar] => 
+            [user_type] => Admin
+        )
+
+    [user_id] => 44
+)
+
